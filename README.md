@@ -1,6 +1,6 @@
 # monalisa-analytics
 <h1 align="left">Hey, I'm Monalisa 👋</h1>
-<h3 align="left">📊 Data Analyst turning messy data into clear decisions</h3>
+<h3 align="left">📊 Data Analyst - turning messy data into clear decisions</h3>
 
 <p align="left">
 SQL · Python · Power BI · Excel &nbsp;|&nbsp; PL-300 & Google Data Analytics Certified
