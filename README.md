@@ -1,4 +1,4 @@
-# monalisa-analytics-
+# monalisa-analytics
 <h1 align="left">Hey, I'm Monalisa 👋</h1>
 <h3 align="left">📊 Data Analyst turning messy data into clear decisions</h3>
 
